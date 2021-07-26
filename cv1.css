@@ -1,0 +1,31 @@
+header{
+	text-align:center;
+}
+.main{
+	float:center;
+	width:90%;
+	margin: auto;
+	height: 100%;
+	
+}
+.left{
+	float:left;
+	width: 30%;
+}
+.right{
+	float:right;
+	width: 70%;
+}
+footer{
+	text-align:center;
+}
+footer a{
+	text-align:center;
+}
+#av{
+	width:150px;
+	height:150px;
+}
+#fio{
+	text-align:center;
+}
